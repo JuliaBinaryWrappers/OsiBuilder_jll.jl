@@ -1,0 +1,13 @@
+name = "OsiBuilder_jll"
+uuid = "bbbc0f9a-0fea-5019-b319-2e05a2e52c5a"
+version = "0.107.9+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+CoinUtils_jll = "be027038-0da8-5614-b30d-e42594cb92df"
+CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+OpenBLAS32_jll = "656ef2d0-ae68-5445-9ca0-591084a874a2"
+
+[compat]
+julia = "1.0"

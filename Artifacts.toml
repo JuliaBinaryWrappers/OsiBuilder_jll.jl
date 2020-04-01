@@ -1,0 +1,214 @@
+[[OsiBuilder]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ee875a0f0beb9e686bfed4e6f3674a2bfca657eb"
+libc = "musl"
+os = "linux"
+
+    [[OsiBuilder.download]]
+    sha256 = "6bd1842d5418df7e92ae42a846789bc85163b4096f7389bd455c545949ea1b92"
+    url = "https://github.com/JuliaBinaryWrappers/OsiBuilder_jll.jl/releases/download/OsiBuilder-v0.107.9+0/OsiBuilder.v0.107.9.aarch64-linux-musl-cxx03.tar.gz"
+[[OsiBuilder]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e4a90537c42442e67ca02e669041b55d541e4268"
+libc = "musl"
+os = "linux"
+
+    [[OsiBuilder.download]]
+    sha256 = "66b64e9dbd92d80c0177335f252f09e4037520bfa97a7b2440cd93726239743d"
+    url = "https://github.com/JuliaBinaryWrappers/OsiBuilder_jll.jl/releases/download/OsiBuilder-v0.107.9+0/OsiBuilder.v0.107.9.aarch64-linux-musl-cxx11.tar.gz"
+[[OsiBuilder]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "39259e7440634099f25c4ae7a53fc1e17375e834"
+libc = "musl"
+os = "linux"
+
+    [[OsiBuilder.download]]
+    sha256 = "e19224cbe01a314415888a663eed37e988c1cc850fa62ebe051226292d797977"
+    url = "https://github.com/JuliaBinaryWrappers/OsiBuilder_jll.jl/releases/download/OsiBuilder-v0.107.9+0/OsiBuilder.v0.107.9.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[OsiBuilder]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c8d16e0760de6f3ed121e19369f6ef5f2f06c709"
+os = "windows"
+
+    [[OsiBuilder.download]]
+    sha256 = "1b537dd63e66ec7102c83143952cdd87a20293881a6e47c4502839e35087c07b"
+    url = "https://github.com/JuliaBinaryWrappers/OsiBuilder_jll.jl/releases/download/OsiBuilder-v0.107.9+0/OsiBuilder.v0.107.9.x86_64-w64-mingw32-cxx11.tar.gz"
+[[OsiBuilder]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "645c0d2473c8e47e1e742675106da5b2aff49d41"
+libc = "musl"
+os = "linux"
+
+    [[OsiBuilder.download]]
+    sha256 = "3d14d328db3ef303fed4c135ec311905e64356df81bdc2378ac0fef931be90ec"
+    url = "https://github.com/JuliaBinaryWrappers/OsiBuilder_jll.jl/releases/download/OsiBuilder-v0.107.9+0/OsiBuilder.v0.107.9.i686-linux-musl-cxx11.tar.gz"
+[[OsiBuilder]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "77ab337e7bd4d5b30fe01f370a565004ab724df6"
+libc = "musl"
+os = "linux"
+
+    [[OsiBuilder.download]]
+    sha256 = "cf29c1424c085410e2ffe7013b4580fbc42d8430d58fe272539c64332b910fd7"
+    url = "https://github.com/JuliaBinaryWrappers/OsiBuilder_jll.jl/releases/download/OsiBuilder-v0.107.9+0/OsiBuilder.v0.107.9.x86_64-linux-musl-cxx11.tar.gz"
+[[OsiBuilder]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "26d82be7e58a9bdb5a64d4c0a59c4ec0d8de1780"
+libc = "glibc"
+os = "linux"
+
+    [[OsiBuilder.download]]
+    sha256 = "e04400bb38d3cd0f3a1b354142871402e206fffb1b488ce4589a5d97ce343f38"
+    url = "https://github.com/JuliaBinaryWrappers/OsiBuilder_jll.jl/releases/download/OsiBuilder-v0.107.9+0/OsiBuilder.v0.107.9.x86_64-linux-gnu-cxx03.tar.gz"
+[[OsiBuilder]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "67fdea9682c53ec9f1283d96b5ac77fafa5bc2f4"
+libc = "glibc"
+os = "linux"
+
+    [[OsiBuilder.download]]
+    sha256 = "9f8bef9732a5eb20509b5b14ddb5233a25e03ce2aa68d0a472cb1df9b94efb98"
+    url = "https://github.com/JuliaBinaryWrappers/OsiBuilder_jll.jl/releases/download/OsiBuilder-v0.107.9+0/OsiBuilder.v0.107.9.i686-linux-gnu-cxx03.tar.gz"
+[[OsiBuilder]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7f4921ff65d638615085ea3b09f7daff9f502fea"
+os = "macos"
+
+    [[OsiBuilder.download]]
+    sha256 = "4f0527b9c174139f59fc4be184551d68462d1cb3b93d40a37f4ddbe1ddaa18bb"
+    url = "https://github.com/JuliaBinaryWrappers/OsiBuilder_jll.jl/releases/download/OsiBuilder-v0.107.9+0/OsiBuilder.v0.107.9.x86_64-apple-darwin14-cxx11.tar.gz"
+[[OsiBuilder]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "45523209c629bc436a0a9c3338048d4a2d0381c4"
+libc = "glibc"
+os = "linux"
+
+    [[OsiBuilder.download]]
+    sha256 = "7ee31d52bec2e63116cf19c00a8436c16436b50132012d0d4dc8212657392caa"
+    url = "https://github.com/JuliaBinaryWrappers/OsiBuilder_jll.jl/releases/download/OsiBuilder-v0.107.9+0/OsiBuilder.v0.107.9.i686-linux-gnu-cxx11.tar.gz"
+[[OsiBuilder]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3bdd4a3c63be541984d4b6e00cc8729c45829a4e"
+os = "windows"
+
+    [[OsiBuilder.download]]
+    sha256 = "c936b372339ffae44dfd5214895e4f8a8b2e372c21822e2ecb51ae8fe6eeb599"
+    url = "https://github.com/JuliaBinaryWrappers/OsiBuilder_jll.jl/releases/download/OsiBuilder-v0.107.9+0/OsiBuilder.v0.107.9.x86_64-w64-mingw32-cxx03.tar.gz"
+[[OsiBuilder]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2a07341d28f92ef585bcb43f1e2cd1b58e3713cd"
+libc = "glibc"
+os = "linux"
+
+    [[OsiBuilder.download]]
+    sha256 = "696f6630d48c48752658bbc26f9ce567bc88d56d139ff8e09aedccc347a0f0d2"
+    url = "https://github.com/JuliaBinaryWrappers/OsiBuilder_jll.jl/releases/download/OsiBuilder-v0.107.9+0/OsiBuilder.v0.107.9.x86_64-linux-gnu-cxx11.tar.gz"
+[[OsiBuilder]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f3e8eac87f516b99eaf48221b3b48a1391df2a8c"
+libc = "glibc"
+os = "linux"
+
+    [[OsiBuilder.download]]
+    sha256 = "ec4e32c0b37284d5b28b8baaf0d9ef859709fce0e7403afbeb257f0126c436d7"
+    url = "https://github.com/JuliaBinaryWrappers/OsiBuilder_jll.jl/releases/download/OsiBuilder-v0.107.9+0/OsiBuilder.v0.107.9.aarch64-linux-gnu-cxx11.tar.gz"
+[[OsiBuilder]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6d674f31beddc92c30a852f94b80d16fb53128ec"
+libc = "musl"
+os = "linux"
+
+    [[OsiBuilder.download]]
+    sha256 = "2247d728e39eb1e1c3dc6e1d0caf033a08a953ad1dea1cb39041d36495d7df3e"
+    url = "https://github.com/JuliaBinaryWrappers/OsiBuilder_jll.jl/releases/download/OsiBuilder-v0.107.9+0/OsiBuilder.v0.107.9.x86_64-linux-musl-cxx03.tar.gz"
+[[OsiBuilder]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "deffd25a3e6c267ef0e6cd4675ebb6fddccc63a6"
+os = "macos"
+
+    [[OsiBuilder.download]]
+    sha256 = "d028b5dc5762ff250536e34c4a5602bd5ed85bf2c0495985c114bc6273739021"
+    url = "https://github.com/JuliaBinaryWrappers/OsiBuilder_jll.jl/releases/download/OsiBuilder-v0.107.9+0/OsiBuilder.v0.107.9.x86_64-apple-darwin14-cxx03.tar.gz"
+[[OsiBuilder]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5c3c214aeb0279eff5285390a342a0307298f997"
+os = "windows"
+
+    [[OsiBuilder.download]]
+    sha256 = "9c80c2cf378a011a7d5ea87d0832876d57dfc75ac1308b882dc49d1690e5427b"
+    url = "https://github.com/JuliaBinaryWrappers/OsiBuilder_jll.jl/releases/download/OsiBuilder-v0.107.9+0/OsiBuilder.v0.107.9.i686-w64-mingw32-cxx03.tar.gz"
+[[OsiBuilder]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0b53227ff6466ae8bd383adf8cfa147fca926009"
+os = "windows"
+
+    [[OsiBuilder.download]]
+    sha256 = "bea61dec30d52dc9f5301ba4cfc0771f21a12d2b65994c40f39fbc3f187ead2e"
+    url = "https://github.com/JuliaBinaryWrappers/OsiBuilder_jll.jl/releases/download/OsiBuilder-v0.107.9+0/OsiBuilder.v0.107.9.i686-w64-mingw32-cxx11.tar.gz"
+[[OsiBuilder]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e0bfcf839d0b182124ff2811d209b4d7efbc70ee"
+libc = "musl"
+os = "linux"
+
+    [[OsiBuilder.download]]
+    sha256 = "4b6702dc7143ed508b8fb94373f1db543887a08eae55a5d02b70099e33dd5590"
+    url = "https://github.com/JuliaBinaryWrappers/OsiBuilder_jll.jl/releases/download/OsiBuilder-v0.107.9+0/OsiBuilder.v0.107.9.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[OsiBuilder]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "82b907ff75f182d327af5b2524eebfc5a0480681"
+libc = "glibc"
+os = "linux"
+
+    [[OsiBuilder.download]]
+    sha256 = "2c96f40918734185b189ca59d1e7049d9acc35b0ddf007641cca7dfdf47e310b"
+    url = "https://github.com/JuliaBinaryWrappers/OsiBuilder_jll.jl/releases/download/OsiBuilder-v0.107.9+0/OsiBuilder.v0.107.9.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[OsiBuilder]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d9a99bea5a5ecdc82898693a67c85abe77399529"
+libc = "glibc"
+os = "linux"
+
+    [[OsiBuilder.download]]
+    sha256 = "2157a013a7c36b4d1bbfb677b3dfb257275cadbd69fdd4230ee394253d432d13"
+    url = "https://github.com/JuliaBinaryWrappers/OsiBuilder_jll.jl/releases/download/OsiBuilder-v0.107.9+0/OsiBuilder.v0.107.9.aarch64-linux-gnu-cxx03.tar.gz"
+[[OsiBuilder]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2794b1def01453236bc060ad95bda33bcd1ba5aa"
+libc = "glibc"
+os = "linux"
+
+    [[OsiBuilder.download]]
+    sha256 = "9c77f86f65fcf20fbf1ce4cd42e5ed4077996f9ee034522689926dbad80240a4"
+    url = "https://github.com/JuliaBinaryWrappers/OsiBuilder_jll.jl/releases/download/OsiBuilder-v0.107.9+0/OsiBuilder.v0.107.9.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[OsiBuilder]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "453e24ba3f36b5ba1814ba1e635b7bbc03985572"
+libc = "musl"
+os = "linux"
+
+    [[OsiBuilder.download]]
+    sha256 = "e0cb3a781f401e9076db697787567baa75e054d7402c2fc830a2d465fa304b89"
+    url = "https://github.com/JuliaBinaryWrappers/OsiBuilder_jll.jl/releases/download/OsiBuilder-v0.107.9+0/OsiBuilder.v0.107.9.i686-linux-musl-cxx03.tar.gz"
